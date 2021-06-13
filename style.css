@@ -1,0 +1,10 @@
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+}
+body{
+    background-color: turquoise;
+}
+.text-danger{
+    color: red;
+}
